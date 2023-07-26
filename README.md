@@ -1,7 +1,7 @@
 # TinDog Project
 
+The site is live at----- https://sharmisthadas32.github.io/TinDog/
 HINT: Copy the link below and paste it on your browser.
-https://github.com/appbrewery/tindog/blob/main/Bootstrap-snippets.pdf
 
 Tindog - Dog Dating Website
 Welcome to Tindog, where your dog can find their paw-fect match! 🐾
