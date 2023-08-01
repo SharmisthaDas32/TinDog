@@ -2,6 +2,12 @@
 
 The site is live at----- https://sharmisthadas32.github.io/TinDog/
 
+![p1](https://github.com/SharmisthaDas32/TinDog/assets/91462857/8d5ef459-2afb-464f-b8ee-6714ce2804df)
+![p2](https://github.com/SharmisthaDas32/TinDog/assets/91462857/46111045-d1cc-49a8-928a-e81254ff41f6)
+![p3](https://github.com/SharmisthaDas32/TinDog/assets/91462857/a0e52a2e-b196-44f4-bd09-6c18738dbcf4)
+![p4](https://github.com/SharmisthaDas32/TinDog/assets/91462857/bea614ca-a066-44a9-a237-fb028d45f075)
+
+
 HINT: Copy the link below and paste it on your browser.
 
 Tindog - Dog Dating Website
